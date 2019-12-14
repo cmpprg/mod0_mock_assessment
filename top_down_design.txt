@@ -1,0 +1,70 @@
+Making a Sandwich
+1 clean counter
+  1.1 gather cleaning supplies
+    1.1.1 retrieve soap
+    1.1.2 retrieve sponge
+    1.1.3 retrieve paper towel roll
+  1.2 wash
+    1.2.1 apply soap to surface(or sponge)
+    1.2.2 apply water to sponge
+    1.2.3 scrub surface with sponge
+  1.3 rinse
+    1.3.1 tear new paper towel from roll
+    1.3.2 apply water to paper towel
+    1.3.3 wipe away soap suds with wet paper towel
+  1.4 dry
+    1.4.1 tear new paper towel from roll
+    1.4.2 wipe wet surface until dry
+2 wash hands
+  2.1 turn on water
+    2.1.1 Use hands to turn on hot
+    2.1.2 use hands to turn on cold water
+    2.1.3 allow water to reach desired temperature
+    2.1.2 run your hands under the water
+  2.2 apply soap
+    2.2.1 put one hand under soap spout
+    2.2.2 use other hand to compress pump
+    2.2.3 repeat previous two steps until desired amount of soap reached
+  2.3 scrub hands
+    2.3.1 rub dominant hand around entire surface of non-dominant hand
+    2.3.2 rub non-dominant hand around entire surface of dominant hand
+    2.3.3 continue for 30 seconds
+  2.4 rinse hands
+    2.4.1 run your hands under the water until soap suds are removed
+    2.4.2 stop rubbing hands together
+  2.5 turn off water
+    2.5.1 use hands to turn off hot water
+    2.5.2 use hands to turn off cold water
+3 Gather Utensils and Ingredients
+  3.1 gather utensils
+    3.1.1 retrieve cutting board
+      3.1.1.1 lay cutting board on clean surface
+    3.1.2 retrieve knife
+    3.1.3 retrieve spoon
+    3.1.4 retrieve plate
+  3.2 gather ingredients
+    3.2.1 retrieve condiments (if applicable)
+      3.2.1.1 >>many more subtasks could go here depending on the instance of sandwich
+    3.2.2 retrieve meats (if applicable)
+      3.2.1.1 >>many more subtasks could go here depending on the instance of sandwich
+    3.2.3 retrieve toppings (if applicable)
+      3.2.1.1 >>many more subtasks could go here depending on the instance of sandwich
+    3.2.4 retrieve bread
+4 Assemble the Sandwich
+  4.1 lay bread open face
+    4.1.1 get two pieces of bread
+    4.1.2 lay 1st piece down on left side of cutting board
+    4.1.3 lay 2nd piece down on right side of cutting board
+  4.2 apply condiments (if applicable)
+    4.2.1 flip a coin, spoon vs knife for applying condiments
+      4.2.1.1 use winner of previous task to apply desired condiments to bread on left side
+  4.3 apply toppings (if applicable)
+    4.3.1 take chosen toppings and layer them on top of condiments
+  4.4 apply meats (if applicable)
+    4.4.1 take chosen meats and layer them on top of toppings
+  4.4 close sandwich
+    4.4.1 take bread located on right side of cutting board and place on top of meats
+    4.4.2 roll or pitch sandwich 180 degrees
+  4.5 shape sandwich (if applicable)
+    4.5.1 take knife and cut the sandwich into desired shape
+  4.6 plate the sandwich
