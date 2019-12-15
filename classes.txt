@@ -3,7 +3,7 @@ Class: Child
 Attributes:
 name (string)
 female (boolean)
-birthday_UNIXTime (number)
+birthday_UNIXTime (float)
 shirt (string)
 pants (string)
 eye_color (string)
@@ -11,5 +11,5 @@ eye_color (string)
 Methods:
 color_contact (change eye_color)
 get_ready_for_day (change shirt & pants)
-current_age_UnixTime (current UnixTime - birthday_UNIXTime)
-cry (puts "boohoo, waaaa!!!!!")
+current_age_inYears (current UnixTime - birthday_UNIXTime, converted to years)
+cry (print a string that is upset!)
