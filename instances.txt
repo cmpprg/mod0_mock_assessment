@@ -1,0 +1,37 @@
+Object:Layla
+
+Attributes:
+name: "Layla Jean Foley"
+female: true
+birthday_UNIXTime:1569701123.0
+shirt: "purple with yellow flower logo"
+pants: "black leggings with pink tutu"
+eye_color: "blue"
+
+Methods:
+color_contact (eye_color = "green")
+get_ready_for_day (shirt = "green with ladybug logo", pants = "bluejeans")
+#this is a current age at the time of making these notes
+current_age_inYears = (1576430507.0 - 1569701123.0 = 6729384.0s / 60 = 112156.4m
+                        112156.4m / 60 = 1869.3h / 24 = 77.9d / 365 ≈ .2 years)
+cry (puts "waaaaaa!, booooohoooo!")
+
+-------------------------------------------------------------------------------
+
+Object: Sam
+
+Attributes
+name: "Samuel Brody Mars"
+female: false
+birthday_UNIXTime: 1418379514.0
+shirt: "red with Optimus Prime logo"
+pants: "Khaki cargo shorts"
+eye_color: "brown"
+
+Methods:
+color_contact (eye_color = "white")
+get_ready_for_day (shirt = "black with Link logo", pants = "black slacks")
+#this is a current age at the time of making these notes
+current_age_inYears (1576431949.0 - 1418379514.0 = 158052435.0s / 60 = 2634207.3m
+                      2634207.3 / 60 = 43903.5h / 24 = 1829.3d / 365 ≈ 5.01 years)
+cry (puts "ba ba ba...waaaahhhh....ba ba ba wooooohhhhaaaaaahhhh!!!!")
